@@ -1,2 +1,2 @@
-# S2M-Former
-[NeurIPS2025] # S&lt;sup>2&lt;/sup>M-Former
+# S²M-Former
+[NeurIPS2025] S²M-Former
