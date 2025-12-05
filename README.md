@@ -3,7 +3,8 @@
 
 ![Poster](assets/S2MFormer-Poster.png)
 
-![Connection](assets/wechat.png)
+
+<img src="assets/wechat.png" width="200">
 
 
 
