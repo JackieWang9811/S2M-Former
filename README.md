@@ -3,12 +3,6 @@
 
 ![Poster](assets/S2MFormer-Poster.png)
 
-
-<img src="assets/wechat.png" width="200">
-
-
-
-
 ## Reference
 If you find this repo useful, please consider citing:
 ```bash
